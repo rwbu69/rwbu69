@@ -1,6 +1,6 @@
 <div align="center">
   <img src="luka.gif" alt="Luka GIF" width="400" height="150" style="object-fit: cover" />
-  <img src="noa.gif" alt="Noa GIF" width="400" height="150" style="object-fit: cover" />
+  <img src="ushio-noa-blue-archive.gif" alt="Noa GIF" width="400" height="150" style="object-fit: cover" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Sebastian!</h1>
