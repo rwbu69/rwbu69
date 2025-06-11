@@ -39,7 +39,7 @@
     <td>
       <picture>
         <source
-          srcset="https://github-readme-stats.vercel.app/api?username=rwbu69&show_icons=true&theme=dark"
+          srcset="https://github-readme-stats.vercel.app/api?username=rwbu69&show_icons=true&theme=dark&card_width=495&hide_border=true"
           media="(prefers-color-scheme: dark)"
         />
         <source
