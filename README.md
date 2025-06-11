@@ -63,3 +63,7 @@
   </tr>
 </table>
 
+<div align="center">
+  <img src="noa.gif" alt="Profile GIF" />
+</div>
+
