@@ -39,7 +39,7 @@
     <td>
       <picture>
         <source
-          srcset="https://github-readme-stats.vercel.app/api?username=rwbu69&show_icons=true&theme=dark&card_width=495&card_height=300&hide_border=true"
+          srcset="https://github-readme-stats.vercel.app/api?username=rwbu69&show_icons=true&theme=dark&card_width=495&hide_border=true"
           media="(prefers-color-scheme: dark)"
         />
         <source
@@ -50,7 +50,7 @@
       </picture>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwbu69&layout=compact&theme=dark&card_width=495&card_height=300&hide_border=true" alt="Most Used Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwbu69&layout=compact&theme=dark&card_width=495&hide_border=true" alt="Most Used Languages" />
     </td>
   </tr>
   <tr>
