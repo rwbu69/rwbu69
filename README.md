@@ -3,6 +3,7 @@ I'm a developer focused on creating clean, efficient, and user-friendly applicat
 
 🌱 I’m currently learning PHP.
 
-Some stuffs for you ! 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rwbu69&theme=bear&show_icons=true)
+Some stuffs for you !
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rwbu69&theme=bear&show_icons=true)
 
