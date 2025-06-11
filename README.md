@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.donmai.us/sample/d2/b3/__megurine_luka_vocaloid_and_1_more_drawn_by_hikarikiiro__sample-d2b363ab57533456505f7c91876c03a3.jpg)](https://github.com/rwbu69/)
+![](luka.gif)
 
 <h1 align="center">Hi I'm rwbu</h1>
 <h3 align="center">Fill this part later on</h3>
