@@ -80,7 +80,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rwbu69&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </td>
 <td width="50%" align="center">
-<img src="https://komarev.com/ghpvc/?username=rwbu69&style=for-the-badge&color=7957D5&label=訪問者数&labelColor=1a1b27" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=rwbu69&style=for-the-badge&color=7957D5&labelColor=1a1b27" alt="Profile Views" />
 <br/><br/>
 <img src="https://img.shields.io/badge/ありがとうございます-Thank%20you%20for%20visiting!-7957D5?style=for-the-badge&labelColor=1a1b27" alt="Thank You" />
 </td>
