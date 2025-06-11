@@ -26,7 +26,7 @@
 <div align="center">
 <table width="100%">
 <tr>
-<td width="50%" align="center">
+<td width="50%" align="center" style="padding-bottom: 8px;">
 
 ### 🌱 現在学習中 (Currently Learning)
 - **PHP** (Laravel Framework)
@@ -34,7 +34,7 @@
 - **Java** (Object-Oriented Programming)
 
 </td>
-<td width="50%" align="center">
+<td width="50%" align="center" style="padding-bottom: 8px;">
 
 ### 💬 話しかけてください！ (Ask me about)
 - **Anime & Manga** アニメ・マンガ
