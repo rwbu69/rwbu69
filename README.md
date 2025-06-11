@@ -2,25 +2,22 @@
   <img src=luka.gif />
 </div>
 
-&lt;div align="center">
+<h1 align="center">Hi 👋, I'm rwbu</h1>
+<h3 align="center">Currently pursuing a computer science degree at Universitas Kristen Immanuel</h3>
 
-Hi there, I'm Sebastian 👋
-&lt;img src="https://media.giphy.com/media/C9x8gX02SnMvK/giphy.gif" width="300"/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rwbu69&label=Profile%20views&color=0e75b6&style=flat" alt="rwbu69" /> </p>
 
-&lt;/div>
+- 🌱 I’m currently learning **PHP (Laravel), JavaScript (React), and Java**
 
-I'm a Computer Science student from Indonesia, passionate about learning new technologies and diving into the world of code.
+- 💬 Ask me about **Otaku cultures !**
 
-👨‍💻 About Me
-🎓   I’m currently pursuing a Computer Science degree.
-🇮🇩   I'm based in Indonesia.
-🗣️   I speak Indonesian, English, and Japanese.
-🤔   I'm deeply interested in Otaku culture, including anime, manga, and light novels.
-🚀 My Tech Stack & Tools
-&lt;p align="center">
-&lt;a href="https://skillicons.dev">
-&lt;img src="https://skillicons.dev/icons?i=php,javascript,java" />
-&lt;/a>
-&lt;/p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/shunshunrwbu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shunshunrwbu" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rwbu69&show_icons=true&locale=en" alt="rwbu69" /></p>
 
