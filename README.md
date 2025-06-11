@@ -56,7 +56,6 @@
     <td>
       <img src="https://komarev.com/ghpvc/?username=rwbu69&color=blueviolet&style=for-the-badge" alt="Profile Views" />
       <br/><br/>
-      <img src="https://time-badge.herokuapp.com/Asia/Jakarta?color=blue&style=for-the-badge" alt="Current Time" />
     </td>
     <td align="center">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%91%8B;Feel+free+to+connect!" alt="Thanks Message" />
