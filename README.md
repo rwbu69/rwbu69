@@ -5,6 +5,10 @@
 <h1 align="center">Hi 👋, I'm Sebastian !</h1>
 <h3 align="center">Currently pursuing a computer science degree at Universitas Kristen Immanuel</h3>
 
+
+
+
+
 - 🌱 I’m currently learning **PHP (Laravel), JavaScript (React), and Java**
 
 - 💬 Ask me about **Otaku cultures !**
