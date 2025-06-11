@@ -1,4 +1,4 @@
-![](luka.gif)
+<div align=center>(luka.gif)</div>
 
 <h1 align="center">Hi I'm rwbu</h1>
 <h3 align="center">Fill this part later on</h3>
