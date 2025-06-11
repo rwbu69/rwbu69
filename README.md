@@ -54,9 +54,8 @@
     </td>
   </tr>
   <tr>
-    <td>
-      <img src="https://komarev.com/ghpvc/?username=rwbu69&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-      <br/><br/>
+          <td align="center">
+        <img src="https://komarev.com/ghpvc/?username=rwbu69&style=for-the-badge&color=7957D5&label=PROFILE+VIEWS&width=250" alt="Profile Views" />
     </td>
     <td align="center">
       <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%91%8B;Feel+free+to+connect!" alt="Thanks Message" />
