@@ -50,7 +50,7 @@
       </picture>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwbu69&layout=compact&theme=dark" alt="Most Used Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rwbu69&layout=compact&theme=dark&card_width=495&hide_border=true" alt="Most Used Languages" />
     </td>
   </tr>
   <tr>
