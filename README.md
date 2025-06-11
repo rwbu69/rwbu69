@@ -5,14 +5,10 @@
 <h1 align="center">Hi 👋, I'm Sebastian!</h1>
 <h3 align="center">Currently pursuing a computer science degree at Universitas Kristen Immanuel</h3>
 
----
-
 ## About Me
 
 - 🌱 I'm currently learning **PHP (Laravel), JavaScript (React), and Java**
 - 💬 Ask me about **Otaku cultures!**
-
----
 
 ## Connect with Me
 
@@ -21,8 +17,6 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shunshunrwbu" height="30" width="40" />
   </a>
 </p>
-
----
 
 ## Languages and Tools
 
@@ -52,8 +46,6 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
   </a> 
 </p>
-
----
 
 ## GitHub Stats
 
