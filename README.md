@@ -1,5 +1,5 @@
 <div align=center>
-  ![](luka.gif)
+  ![](https://github.com/rwbu69/rwbu69/luka.gif)
 </div>
 
 <h1 align="center">Hi I'm rwbu</h1>
