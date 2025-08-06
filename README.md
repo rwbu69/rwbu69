@@ -34,15 +34,6 @@
 - **Java** (Object-Oriented Programming)
 
 </td>
-<td width="50%" align="center" style="padding-bottom: 8px;">
-
-### 💬 話しかけてください！ (Ask me about)
-- **Anime & Manga** アニメ・マンガ
-- **Otaku Culture** オタク文化
-- **Web Development** ウェブ開発
-- **Programming** プログラミング
-
-</td>
 </tr>
 </table>
 </div>
