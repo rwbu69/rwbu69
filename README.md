@@ -4,16 +4,6 @@
 
 ---
 
-### 🖥️ System Info
-```bash
-> neofetch
-OS: Linux (Arch/EndeavourOS)  
-WM: i3 / Hyprland  
-Editor: VS Code + Neovim  
-Shell: zsh  
-```
----
-
 <img src="luka.gif" alt="Luka GIF" width="250" height="120" style="object-fit: cover; border-radius: 10px;" />
 <img src="ushio-noa-blue-archive.gif" alt="Noa GIF" width="250" height="120" style="object-fit: cover; border-radius: 10px;" />
 
@@ -51,32 +41,12 @@ Shell: zsh
 ## 📊 GitHub Statistics
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=rwbu69&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rwbu69&layout=compact&theme=tokyonight&hide_border=true)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=rwbu69&theme=tokyonight&hide_border=true)  
+| ![Stats](https://github-readme-stats.vercel.app/api?username=rwbu69&show_icons=true&theme=tokyonight&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rwbu69&layout=compact&theme=tokyonight&hide_border=true) |
+|---|---|
+| ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=rwbu69&theme=tokyonight&hide_border=true) |  |
 
 </div>
 
----
-
-## 🎵 Now Playing
-<div align="center">
-
-[![Spotify](https://novatorem-rwbu69.vercel.app/api/spotify)](https://open.spotify.com/user/)  
-
-</div>
-
----
-
-## 🌌 Hidden Section
-<details>
-  <summary>✨ Click for a Random Fun Fact</summary>
-  
-  - I sometimes rice my Linux more than I code 🤫  
-  - I can spend hours fixing a dotfile just for a new color palette.  
-  - “console.log('Hello World!')” was my first spell 🪄.  
-
-</details>
 
 ---
 
