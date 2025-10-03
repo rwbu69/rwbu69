@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=7957D5&center=true&vCenter=true&width=700&lines=Hey!+I'm+Sebastian+👋;Welcome+to+Toshokan+Profile;Fullstack+Learner+|+Anime+Enjoyer;Always+Building+Something+Cool!" alt="Animated Header" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=7957D5&center=true&vCenter=true&width=700&lines=Hey!+I'm+Sebastian+👋;Fullstack+Learner+|+Anime+Enjoyer;Nasi+Goreng+Everyday" alt="Animated Header" />
 
 ---
 
