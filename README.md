@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="yokaiwebsite/image1.png" alt="Yokai Website" width="250"/>
-  <img src="noa-assist/image1.png" alt="Noa Assist" width="250"/>
-  <img src="rwbu-toolkit/image1.png" alt="RWBU Toolkit" width="250"/>
+  <img src="yokaiwebsite/image1.png" alt="Yokai Website" width="200"/>
+  <img src="noa-assist/image1.png" alt="Noa Assist" width="200"/>
+  <img src="rwbu-toolkit/image1.png" alt="RWBU Toolkit" width="200"/>
 </div>
 
 # Hi there, I'm Sebastian
@@ -14,9 +14,9 @@ You might also know me around the web as **RWBU**. If you wanna see some of my p
 
 So yeah, here is the tech stack I use for making things:
 
-* **Frontend:** React, AstroJS, JavaScript, TypeScript, Tailwind CSS, HTML5, CSS3
-* **Backend:** Laravel, PHP, Java
-* **Tools & Environment:** Git, Vite, and Composer
+- **Frontend:** React, AstroJS, JavaScript, TypeScript, Tailwind CSS, HTML5, CSS3
+- **Backend:** Laravel, PHP, Java
+- **Tools & Environment:** Git, Vite, and Composer
 
 ### Check out the stuffs I've built
 
@@ -41,12 +41,14 @@ Check out the website for yourself here :
 Then there's also these stuffs. Noa chan assist and Eltoolkitderwbu.
 
 **Noa chan assist** is the thing that I love the most currently. It's... well it's just a chatbot honestly and AI assistant-ish (currently learning that). I mean it's quite fun with these AI stuffs.
+
 <div align="center">
   <img src="noa-assist/image1.png" alt="Noa Assist Screenshot 1" width="200"/>
   <img src="noa-assist/image2.png" alt="Noa Assist Screenshot 2" width="200"/>
 </div>
 
 But the other one **Eltoolkitderwbu** is basically a yt to mp3/mp4 and ffmpeg stuffs. I made it cause I'm too lazy to open up a website and there are limits on how many converts I could do as well. So I made it into an app.
+
 <div align="center">
   <img src="rwbu-toolkit/image1.png" alt="Toolkit Screenshot 1" width="200"/>
   <img src="rwbu-toolkit/image2.png" alt="Toolkit Screenshot 2" width="200"/>
@@ -58,23 +60,23 @@ Both of them were made with js and tauri since I don't know. I searched around a
 
 Other than that I also made other stuffs
 
-* [akal-aksara-karsa-logika](https://github.com/rwbu69/akal-aksara-karsa-logika) - This one is basically a website I made for a competition and it works by correcting mistakes on academic and creative writing.
-* [cosu-rent](https://github.com/rwbu69/cosu-rent) - A college project thingy for my mid terms last year. It's basically a cosplay rental website kinda thing made in laravel and it utilizes QR codes and other things to verify stuffs.
+- [akal-aksara-karsa-logika](https://github.com/rwbu69/akal-aksara-karsa-logika) - This one is basically a website I made for a competition and it works by correcting mistakes on academic and creative writing.
+- [cosu-rent](https://github.com/rwbu69/cosu-rent) - A college project thingy for my mid terms last year. It's basically a cosplay rental website kinda thing made in laravel and it utilizes QR codes and other things to verify stuffs.
 
 ### What I'm deep diving into right now
 
 I'm always trying to learn new stuff, so right now my core focus is on:
 
-* **Laravel:** Messing with Eloquent ORM and API Development.
-* **React:** Getting a better grasp on Hooks, State Management, and Component Design.
-* **Java:** Good ol' Object-Oriented Programming (OOP) Patterns.
+- **Laravel:** Messing with Eloquent ORM and API Development.
+- **React:** Getting a better grasp on Hooks, State Management, and Component Design.
+- **Java:** Good ol' Object-Oriented Programming (OOP) Patterns.
 
 ### Let's connect!
 
 If you wanna reach out, talk about code, or check out my stats, you can click these links!
 
-* **Portfolio:** [rwbu.dev](https://rwbu.dev)
-* **Email:** [sebastianhutagalung69@gmail.com](mailto:sebastianhutagalung69@gmail.com)
-* **LinkedIn:** [Sebastian Hutagalung](https://linkedin.com/in/sebastianvyhutagalung/)
+- **Portfolio:** [rwbu.dev](https://rwbu.dev)
+- **Email:** [sebastianhutagalung69@gmail.com](mailto:sebastianhutagalung69@gmail.com)
+- **LinkedIn:** [Sebastian Hutagalung](https://linkedin.com/in/sebastianvyhutagalung/)
 
-> *Btw, when I'm not coding, I'm likely consuming Japanese media or just exploring random new web technologies. But yeah there's that, thanks for visiting my profile!*
+> _Btw, when I'm not coding, I'm likely consuming Japanese media or just exploring random new web technologies. But yeah there's that, thanks for visiting my profile!_
