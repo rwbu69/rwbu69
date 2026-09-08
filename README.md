@@ -1,16 +1,8 @@
 <div align="center">
-  <img src="yokaiwebsite/image1.png" alt="Yokai Website" height="200" width="250"/>
-  <img src="noa-assist/image1.png" alt="Noa Assist" height="200" width="250"/>
-  <img src="rwbu-toolkit/image1.png" alt="RWBU Toolkit" height="200" width="250"/>
+  <img src="noa.png" alt="My Beloved" width="800"/>
 </div>
 
 # Hi there, I'm Sebastian
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Modern+Front-end+Developer;Full-stack+Enthusiast" alt="Typing SVG" />
-  </a>
-</div>
 
 So basically, I'm a Computer Science student from Indonesia, and I'm currently leaning into modern front-end development. I've always wanted to bridge the gap between college theories and actual software engineering, so I spend a lot of time building hands-on projects... and well, it's been pretty fun so far.
 
@@ -82,7 +74,6 @@ I'm always trying to learn new stuff, so right now my core focus is on:
 ### Let's connect!
 
 If you wanna reach out, talk about code, or check out my stats, you can click these links!
-
 
 - **Portfolio:** [rwbu.dev](https://rwbu.dev)
 - **Email:** [sebastianhutagalung69@gmail.com](mailto:sebastianhutagalung69@gmail.com)
