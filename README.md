@@ -83,11 +83,6 @@ I'm always trying to learn new stuff, so right now my core focus is on:
 
 If you wanna reach out, talk about code, or check out my stats, you can click these links!
 
-<div align="center">
-  <a href="https://github.com/rwbu69">
-    <img src="https://github-readme-stats.vercel.app/api?username=rwbu69&show_icons=true&theme=tokyonight&hide_border=true" alt="RWBU's GitHub stats" />
-  </a>
-</div>
 
 - **Portfolio:** [rwbu.dev](https://rwbu.dev)
 - **Email:** [sebastianhutagalung69@gmail.com](mailto:sebastianhutagalung69@gmail.com)
