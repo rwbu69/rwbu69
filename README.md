@@ -6,6 +6,12 @@
 
 # Hi there, I'm Sebastian
 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Modern+Front-end+Developer;Full-stack+Enthusiast" alt="Typing SVG" />
+  </a>
+</div>
+
 So basically, I'm a Computer Science student from Indonesia, and I'm currently leaning into modern front-end development. I've always wanted to bridge the gap between college theories and actual software engineering, so I spend a lot of time building hands-on projects... and well, it's been pretty fun so far.
 
 You might also know me around the web as **RWBU**. If you wanna see some of my projects, you can check out my portfolio right here! [rwbu.dev](https://rwbu.dev)
@@ -14,9 +20,11 @@ You might also know me around the web as **RWBU**. If you wanna see some of my p
 
 So yeah, here is the tech stack I use for making things:
 
-- **Frontend:** React, AstroJS, JavaScript, TypeScript, Tailwind CSS, HTML5, CSS3
-- **Backend:** Laravel, PHP, Java
-- **Tools & Environment:** Git, Vite, and Composer
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,astro,js,ts,tailwind,html,css,laravel,php,java,git,vite" />
+  </a>
+</p>
 
 ### Check out the stuffs I've built
 
@@ -74,6 +82,12 @@ I'm always trying to learn new stuff, so right now my core focus is on:
 ### Let's connect!
 
 If you wanna reach out, talk about code, or check out my stats, you can click these links!
+
+<div align="center">
+  <a href="https://github.com/rwbu69">
+    <img src="https://github-readme-stats.vercel.app/api?username=rwbu69&show_icons=true&theme=tokyonight&hide_border=true" alt="RWBU's GitHub stats" />
+  </a>
+</div>
 
 - **Portfolio:** [rwbu.dev](https://rwbu.dev)
 - **Email:** [sebastianhutagalung69@gmail.com](mailto:sebastianhutagalung69@gmail.com)
