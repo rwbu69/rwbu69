@@ -1,14 +1,16 @@
 <div align="center">
-  <img src="noa.gif" alt="Noa" width="750"/>
+  <img src="yokaiwebsite/image1.png" alt="Yokai Website" width="250"/>
+  <img src="noa-assist/image1.png" alt="Noa Assist" width="250"/>
+  <img src="rwbu-toolkit/image1.png" alt="RWBU Toolkit" width="250"/>
 </div>
 
-# Hi there, I'm Sebastian (・∀・)
+# Hi there, I'm Sebastian
 
-So basically, I'm a Computer Science student from Indonesia, and I'm currently leaning into modern front-end development. I've always wanted to bridge the gap between college theories and actual software engineering, so I spend a lot of time building hands-on projects... and well, it's been pretty fun so far (≧▽≦)
+So basically, I'm a Computer Science student from Indonesia, and I'm currently leaning into modern front-end development. I've always wanted to bridge the gap between college theories and actual software engineering, so I spend a lot of time building hands-on projects... and well, it's been pretty fun so far.
 
-You might also know me around the web as **RWBU**. If you wanna see some of my projects, you can check out my portfolio right here! (・ω・)b [rwbu.dev](https://rwbu.dev)
+You might also know me around the web as **RWBU**. If you wanna see some of my projects, you can check out my portfolio right here! [rwbu.dev](https://rwbu.dev)
 
-### What I usually build with (￣▽￣)
+### What I usually build with
 
 So yeah, here is the tech stack I use for making things:
 
@@ -59,7 +61,7 @@ Other than that I also made other stuffs
 * [akal-aksara-karsa-logika](https://github.com/rwbu69/akal-aksara-karsa-logika) - This one is basically a website I made for a competition and it works by correcting mistakes on academic and creative writing.
 * [cosu-rent](https://github.com/rwbu69/cosu-rent) - A college project thingy for my mid terms last year. It's basically a cosplay rental website kinda thing made in laravel and it utilizes QR codes and other things to verify stuffs.
 
-### What I'm deep diving into right now ( ﾟ▽ﾟ)/
+### What I'm deep diving into right now
 
 I'm always trying to learn new stuff, so right now my core focus is on:
 
@@ -67,7 +69,7 @@ I'm always trying to learn new stuff, so right now my core focus is on:
 * **React:** Getting a better grasp on Hooks, State Management, and Component Design.
 * **Java:** Good ol' Object-Oriented Programming (OOP) Patterns.
 
-### Let's connect! ヽ(・∀・)ﾉ
+### Let's connect!
 
 If you wanna reach out, talk about code, or check out my stats, you can click these links!
 
@@ -75,4 +77,4 @@ If you wanna reach out, talk about code, or check out my stats, you can click th
 * **Email:** [sebastianhutagalung69@gmail.com](mailto:sebastianhutagalung69@gmail.com)
 * **LinkedIn:** [Sebastian Hutagalung](https://linkedin.com/in/sebastianvyhutagalung/)
 
-> *Btw, when I'm not coding, I'm likely consuming Japanese media or just exploring random new web technologies. But yeah there's that, thanks for visiting my profile! (・∀・)*
+> *Btw, when I'm not coding, I'm likely consuming Japanese media or just exploring random new web technologies. But yeah there's that, thanks for visiting my profile!*
