@@ -19,7 +19,7 @@ So yeah, here is the tech stack I use for making things:
 ### Check out the stuffs I've built
 
 <div align="center">
-  <img src="yokaiwebsite/image1" alt="Yokai Website Screenshot" width="400"/>
+  <img src="yokaiwebsite/image1.png" alt="Yokai Website Screenshot" width="400"/>
 </div>
 
 **Yokai Website**
@@ -27,8 +27,8 @@ It's a website for a wotagei team based in Yogyakarta, Indonesia (Yes I'm part o
 I made it with AstroJS, React, and it's deployed statically.
 
 <div align="center">
-  <img src="yokaiwebsite/image2" alt="Yokai Website Screenshot 2" width="200"/>
-  <img src="yokaiwebsite/image3" alt="Yokai Website Screenshot 3" width="200"/>
+  <img src="yokaiwebsite/image2.png" alt="Yokai Website Screenshot 2" width="200"/>
+  <img src="yokaiwebsite/image3.png" alt="Yokai Website Screenshot 3" width="200"/>
 </div>
 
 Check out the website for yourself here :
@@ -40,14 +40,14 @@ Then there's also these stuffs. Noa chan assist and Eltoolkitderwbu.
 
 **Noa chan assist** is the thing that I love the most currently. It's... well it's just a chatbot honestly and AI assistant-ish (currently learning that). I mean it's quite fun with these AI stuffs.
 <div align="center">
-  <img src="noa-assist/image1" alt="Noa Assist Screenshot 1" width="200"/>
-  <img src="noa-assist/image2" alt="Noa Assist Screenshot 2" width="200"/>
+  <img src="noa-assist/image1.png" alt="Noa Assist Screenshot 1" width="200"/>
+  <img src="noa-assist/image2.png" alt="Noa Assist Screenshot 2" width="200"/>
 </div>
 
 But the other one **Eltoolkitderwbu** is basically a yt to mp3/mp4 and ffmpeg stuffs. I made it cause I'm too lazy to open up a website and there are limits on how many converts I could do as well. So I made it into an app.
 <div align="center">
-  <img src="rwbu-toolkit/image1" alt="Toolkit Screenshot 1" width="200"/>
-  <img src="rwbu-toolkit/image2" alt="Toolkit Screenshot 2" width="200"/>
+  <img src="rwbu-toolkit/image1.png" alt="Toolkit Screenshot 1" width="200"/>
+  <img src="rwbu-toolkit/image2.png" alt="Toolkit Screenshot 2" width="200"/>
 </div>
 
 Both of them were made with js and tauri since I don't know. I searched around and people said to use tauri so I did.
