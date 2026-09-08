@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="yokaiwebsite/image1.png" alt="Yokai Website" width="200"/>
-  <img src="noa-assist/image1.png" alt="Noa Assist" width="200"/>
-  <img src="rwbu-toolkit/image1.png" alt="RWBU Toolkit" width="200"/>
+  <img src="yokaiwebsite/image1.png" alt="Yokai Website" height="200" width="250"/>
+  <img src="noa-assist/image1.png" alt="Noa Assist" height="200" width="250"/>
+  <img src="rwbu-toolkit/image1.png" alt="RWBU Toolkit" height="200" width="250"/>
 </div>
 
 # Hi there, I'm Sebastian
