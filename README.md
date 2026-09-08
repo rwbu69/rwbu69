@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="noa.png" alt="My Beloved" width="800"/>
+  <img src="noa.png" alt="My Beloved" width="500"/>
 </div>
 
 # Hi there, I'm Sebastian
