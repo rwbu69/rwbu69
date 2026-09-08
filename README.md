@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="luka.gif" alt="Luka" width="750"/>
+  <img src="noa.gif" alt="Noa" width="750"/>
 </div>
 
 # Hi there, I'm Sebastian (・∀・)
