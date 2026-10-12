@@ -1,82 +1,85 @@
 <div align="center">
-  <img src="noa.png" alt="My Beloved" width="500"/>
+
+<img src="noa.png" alt="Banner" width="320" />
+
+# Sebastian Hutagalung · RWBU
+
+**Computer Science student & web developer from Indonesia.**
+I build modern front-end apps, a little AI tooling on the side, and I perform wotagei when I'm away from the keyboard.
+
+[Portfolio](https://rwbu.dev) · [LinkedIn](https://linkedin.com/in/sebastianvyhutagalung/) · [Email](mailto:sebastianhutagalung69@gmail.com)
+
+*Open to freelance projects and internships.*
+
 </div>
-
-# Hi there, I'm Sebastian
-
-So basically, I'm a Computer Science student from Indonesia, and I'm currently leaning into modern front-end development. I've always wanted to bridge the gap between college theories and actual software engineering, so I spend a lot of time building hands-on projects... and well, it's been pretty fun so far.
-
-You might also know me around the web as **RWBU**. If you wanna see some of my projects, you can check out my portfolio right here! [rwbu.dev](https://rwbu.dev)
-
-### What I usually build with
-
-So yeah, here is the tech stack I use for making things:
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,astro,js,ts,tailwind,html,css,laravel,php,java,git,vite" />
-  </a>
-</p>
-
-### Check out the stuffs I've built
-
-<div align="center">
-  <img src="yokaiwebsite/image1.png" alt="Yokai Website Screenshot" width="400"/>
-</div>
-
-**Yokai Website**
-It's a website for a wotagei team based in Yogyakarta, Indonesia (Yes I'm part of it).
-I made it with AstroJS, React, and it's deployed statically.
-
-<div align="center">
-  <img src="yokaiwebsite/image2.png" alt="Yokai Website Screenshot 2" width="200"/>
-  <img src="yokaiwebsite/image3.png" alt="Yokai Website Screenshot 3" width="200"/>
-</div>
-
-Check out the website for yourself here :
-[https://yokai-website.lovelyrwbu69.workers.dev/](https://yokai-website.lovelyrwbu69.workers.dev/)
 
 ---
 
-Then there's also these stuffs. Noa chan assist and Eltoolkitderwbu.
+## About me
 
-**Noa chan assist** is the thing that I love the most currently. It's... well it's just a chatbot honestly and AI assistant-ish (currently learning that). I mean it's quite fun with these AI stuffs.
+I'm closing the gap between what college teaches and what shipping software actually takes, mostly by building real things. My focus is front-end (Astro, React, Svelte), backed by Laravel and Node/Bun when a project needs a server. I like tools that feel good to use, and I'm usually found somewhere between a code editor and a Japanese media rabbit hole.
 
-<div align="center">
-  <img src="noa-assist/image1.png" alt="Noa Assist Screenshot 1" width="200"/>
-  <img src="noa-assist/image2.png" alt="Noa Assist Screenshot 2" width="200"/>
-</div>
+## Tech stack
 
-But the other one **Eltoolkitderwbu** is basically a yt to mp3/mp4 and ffmpeg stuffs. I made it cause I'm too lazy to open up a website and there are limits on how many converts I could do as well. So I made it into an app.
-
-<div align="center">
-  <img src="rwbu-toolkit/image1.png" alt="Toolkit Screenshot 1" width="200"/>
-  <img src="rwbu-toolkit/image2.png" alt="Toolkit Screenshot 2" width="200"/>
-</div>
-
-Both of them were made with js and tauri since I don't know. I searched around and people said to use tauri so I did.
+[![Tech Stack](https://skillicons.dev/icons?i=react,astro,svelte,ts,js,tailwind,html,css,laravel,php,java,bun,tauri,vite,git)](https://skillicons.dev)
 
 ---
 
-Other than that I also made other stuffs
+## Featured projects
 
-- [akal-aksara-karsa-logika](https://github.com/rwbu69/akal-aksara-karsa-logika) - This one is basically a website I made for a competition and it works by correcting mistakes on academic and creative writing.
-- [cosu-rent](https://github.com/rwbu69/cosu-rent) - A college project thingy for my mid terms last year. It's basically a cosplay rental website kinda thing made in laravel and it utilizes QR codes and other things to verify stuffs.
+### ProposalArena
+**Thesis defense simulator with an AI examiner.** Upload a proposal, get questioned by an adaptive panel (text or voice), and receive a scored report. It runs fully in the browser, keeps your data local, and uses your own API key. Under the hood: a multi-stage prompt pipeline, client-side retrieval to ground questions in your document, and session integrity monitoring.
+`Astro` · `Svelte` · `TypeScript` · `IndexedDB` · `OpenRouter`
+[Repository](https://github.com/rwbu69/ProposalArena)
 
-### What I'm deep diving into right now
+### Noa-chan Assist
+**A desktop AI companion with memory.** She remembers past conversations, searches them semantically, checks in when you've been idle, and can use tools like file access, web search, system stats, and a Pomodoro focus mode. Built because I wanted to understand how memory and agentic workflows actually fit together (and because I'm a Blue Archive fan).
+`Tauri` · `Svelte` · `Bun` · `SQLite` · `LanceDB` · `OpenRouter`
 
-I'm always trying to learn new stuff, so right now my core focus is on:
+<img src="noa-assist/image1.png" alt="Noa-chan Assist screenshot" width="48%" /> <img src="noa-assist/image2.png" alt="Noa-chan Assist chat" width="48%" />
 
-- **Laravel:** Messing with Eloquent ORM and API Development.
-- **React:** Getting a better grasp on Hooks, State Management, and Component Design.
-- **Java:** Good ol' Object-Oriented Programming (OOP) Patterns.
+[Repository](https://github.com/rwbu69/noachanassist)
 
-### Let's connect!
+### Yokai Website
+**Website and CMS for Yokai**, an independent wotagei performance team in Yogyakarta (I'm a member). Statically deployed, with content managed through Sanity so the team can update it without touching code.
+`Astro` · `Tailwind CSS` · `anime.js` · `Sanity` · `Cloudflare`
 
-If you wanna reach out, talk about code, or check out my stats, you can click these links!
+<img src="yokaiwebsite/image1.png" alt="Yokai website" width="32%" /> <img src="yokaiwebsite/image2.png" alt="Yokai website, page 2" width="32%" /> <img src="yokaiwebsite/image3.png" alt="Yokai website, page 3" width="32%" />
 
-- **Portfolio:** [rwbu.dev](https://rwbu.dev)
-- **Email:** [sebastianhutagalung69@gmail.com](mailto:sebastianhutagalung69@gmail.com)
-- **LinkedIn:** [Sebastian Hutagalung](https://linkedin.com/in/sebastianvyhutagalung/)
+[Live site](https://yokai-website.lovelyrwbu69.workers.dev/) · [Repository](https://github.com/rwbu69/yokai-web)
 
-> _Btw, when I'm not coding, I'm likely consuming Japanese media or just exploring random new web technologies. But yeah there's that, thanks for visiting my profile!_
+### ElToolkitDeRWBU
+**A desktop media toolkit** that wraps FFmpeg and yt-dlp in a clean GUI: download media, trim and extract audio, batch-edit ID3 tags, and batch-rename files with preview and undo. I built it because I was tired of web converters with usage limits.
+`Tauri v2` · `React` · `TypeScript` · `Vite`
+
+<img src="rwbu-toolkit/image1.png" alt="ElToolkit screenshot" width="48%" /> <img src="rwbu-toolkit/image2.png" alt="ElToolkit screenshot 2" width="48%" />
+
+[Repository](https://github.com/rwbu69/eltoolkitde_rwbu)
+
+---
+
+## More projects
+
+- **[akal-aksara-karsa-logika](https://github.com/rwbu69/akal-aksara-karsa-logika)**: an AI-assisted writing correction platform for academic and creative writing, built for a competition.
+- **[cosu-rent](https://github.com/rwbu69/cosu-rent)**: a Laravel cosplay rental platform with QR-code verification, built as a college project.
+
+---
+
+## Currently leveling up
+
+- **Laravel**: Eloquent ORM and API design
+- **React**: hooks, state management, component architecture
+- **Java**: object-oriented design patterns
+- **AI tooling**: memory, retrieval, and agent workflows
+
+---
+
+## Side quests
+
+When I'm not coding I'm probably watching or reading something Japanese, dancing wotagei with Yokai, or poking at some new web tech I don't need yet.
+
+## Let's connect
+
+If you have a project, an opening, or just want to talk code (or anime), reach out:
+
+[rwbu.dev](https://rwbu.dev) · [LinkedIn](https://linkedin.com/in/sebastianvyhutagalung/) · [sebastianhutagalung69@gmail.com](mailto:sebastianhutagalung69@gmail.com)
